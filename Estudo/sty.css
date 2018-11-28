@@ -1,0 +1,64 @@
+body{
+    padding: 50px;
+}
+#title #ct1{
+    color: crimson;
+    text-align: center;
+}
+#table{
+}
+#desc{
+height: 250px;
+}
+#ph1{
+ float: left;
+ margin: 15px;
+}
+#desc p{
+    display: table;
+padding-top: 30px;
+}
+#fin{
+    color: crimson;
+}
+#minfo{
+    text-align: center;
+}
+.conteiner{
+width: 33%;
+float: left;
+}
+span{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+nav{
+ height: 50px;
+}
+
+nav ul{
+margin:  0 auto;
+text-align: center;
+}
+
+nav ul li{
+float: left;
+margin-right: 20px;
+list-style-type: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif'
+}
+nav ul li a{
+    color: crimson;
+    display: block;
+    width: 80px;
+    height: 25px;
+    background-color: black;
+    text-decoration: none;
+
+}
+
+nav ul li a:hover{
+    color: darkred;
+    background-color: crimson
+}
